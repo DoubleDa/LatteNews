@@ -7,16 +7,21 @@
 
 ## 1、技术栈
 
-- Material Design
-- RxJava
-- RxLifecycle
-- RxAndroid
-- RxBus
-- dagger2
-- Glide
-- MVP
-- Realm
-- Retrofit
+- [Material Design](https://material.io/)
+- [RxJava](https://github.com/ReactiveX/RxJava)
+- [RxLifecycle](https://github.com/trello/RxLifecycle)
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+- [RxBus](https://github.com/AndroidKnife/RxBus)
+- [RxKotlin](https://github.com/ReactiveX/RxKotlin)
+- [Dagger2](https://google.github.io/dagger/)
+- [Glide](https://github.com/bumptech/glide)
+- [MVP]()
+- [Realm]()
+- [Retrofit]()
+- [OkHttp]()
+- [LeakCanary]()
+- [ButterKnife](https://github.com/JakeWharton/butterknife)
+- [Logger]()
 
 ## 2、功能简介
 
